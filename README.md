@@ -71,12 +71,10 @@ You will need to have the following available to work with:
 
 ## Authors and acknowledgment
 Acknowledgements
-This project was inspired by our dear teacher Kristian Kjeldsen.
+This project was inspired by our dear teacher Giacomo Turatto.
 
 Also in cooperation with Elon Musk and his vision of the future, to mars!
 
-
-https://www.youtube.com/watch?v=ZBgXb66Ckz0
 
 Contact
 Created by Team Codehard:
