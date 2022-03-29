@@ -71,9 +71,9 @@ How run the project?
 - Create a virtual environment
 - python -m venv [directory]
 Activate the venv and install requirements
-- Mac OS / Linux
--- source [your-directory]/bin/activate
-- Windows
+* Mac OS / Linux
+- source [your-directory]/bin/activate
+* Windows
 -- your-directory\Scripts\activate
 
 - Run requirements install pip install -r requirements.txt
