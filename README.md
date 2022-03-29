@@ -20,18 +20,6 @@ git branch -M main
 git push -uf origin main
 ```
 
-## Integrate with your tools
-
-- [ ] [Set up project integrations](https://gitlab.com/SaraPetre/aras_u05_sprint1/-/settings/integrations)
-
-## Collaborate with your team
-
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
-
 ## Test and Deploy
 
 Use the built-in continuous integration in GitLab.
@@ -44,18 +32,11 @@ Use the built-in continuous integration in GitLab.
 
 ***
 
-# Editing this README
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!).  Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
-
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
-
-## Name
-Choose a self-explaining name for your project.
+## TeamCodeHard-API-DOE21
 
 ## Description
-This MVP (Minimum Viable Product) is build for a campany which ordered a database model for its webshop us earlier and now wants to move on with the next steps in the development process. 
+This MVP (Minimum Viable Product) is build for a campany which ordered a database model for its webshop from us earlier and now wants to move on with the next steps in the development process. 
 
 ## Badges
 On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
@@ -71,10 +52,10 @@ How run the project?
 - Create a virtual environment
 - python -m venv [directory]
 Activate the venv and install requirements
-* Mac OS / Linux
-- source [your-directory]/bin/activate
-* Windows
--- your-directory\Scripts\activate
+    - Mac OS / Linux
+-  source [your-directory]/bin/activate
+    - Windows
+- your-directory\Scripts\activate
 
 - Run requirements install pip install -r requirements.txt
 - Enter in venv
