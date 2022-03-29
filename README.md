@@ -1,4 +1,4 @@
-# aras_u05_sprint1
+# TeamCodeHard-API-DOE21
 
 Work done on sprint one
 
@@ -36,13 +36,8 @@ Use the built-in continuous integration in GitLab.
 ## TeamCodeHard-API-DOE21
 
 ## Description
-This MVP (Minimum Viable Product) is build for a campany which ordered a database model for its webshop from us earlier and now wants to move on with the next steps in the development process. 
+This project is about an MVP (Minimum Viable Product) that is built for a company that previously ordered a database model for its webshop from us and now wants to move on with the next step in the development process.
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
-
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
 
 ![bild2](https://user-images.githubusercontent.com/91993656/160679215-74fc463e-0be2-4cb6-95ae-3e0af9f2a30d.png)
 
