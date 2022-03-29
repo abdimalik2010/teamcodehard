@@ -44,6 +44,9 @@ On some READMEs, you may see small images that convey metadata, such as whether 
 ## Visuals
 Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
 
+![bild2](https://user-images.githubusercontent.com/91993656/160679215-74fc463e-0be2-4cb6-95ae-3e0af9f2a30d.png)
+
+
 
 ## Installation
 
