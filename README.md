@@ -51,15 +51,13 @@ Docker-compose up
 ​
 And it should display the same content as running the app with docker-compose
 ​
-​
-​
+
 ### Features
 ​
 - Work on projects based on Scrum
 - Trello, which is kept up to date
 - Use Gitlab for testing and production
-- fylla på här?
-- 
+
 ### Setup
 The project started with the following steps:
 - Create a group DM on Slack with the members
