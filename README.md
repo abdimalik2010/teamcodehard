@@ -6,6 +6,15 @@ The company that ordered the database model for its webshop wants to proceed wit
 ​
 ![bild2](https://user-images.githubusercontent.com/91993656/160679215-74fc463e-0be2-4cb6-95ae-3e0af9f2a30d.png)
 ### Technologies Used
+
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+
+<img align="left" alt="Docker-compose" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker-compose/docker-compose.png" />
+
+
+<br />
+<br />
+---
 - Python 3.10
 - FastApi
 - Psycopg
