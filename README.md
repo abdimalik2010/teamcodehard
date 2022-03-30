@@ -21,7 +21,7 @@ The company that ordered the database model for its webshop wants to proceed wit
 ​
 How run to the project?
 ​
-Create a virtual environment
+- Create a virtual environment
     - python -m venv [directory]
 Activate the venv 
     - Mac OS / Linux
