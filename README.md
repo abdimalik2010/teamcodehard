@@ -115,5 +115,4 @@ Selim Hussen (https://github.com/Selimdinho)
 ​
 Abdimalik Omar (https://github.com/abdimalik2010)
 ​
-## License
-For open source projects, say how it is license
+
