@@ -85,6 +85,7 @@ We started sprint one by searching good knowledge about the topic. In the next s
 brainstorm where we added as many possible attributes that would help to make as good a database as
 possible.
 The sprints "way of working" were changed weekly to optimize the best optimum workflow
+
 ### Test and Deploy
 ​
 Use the built-in continuous integration in GitLab.
@@ -93,7 +94,7 @@ Use the built-in continuous integration in GitLab.
 - [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
 - [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
 ​
-Authors and acknowledgment
-Acknowledgements This project was inspired by our dear teacher Giacomo Turatto.​Also in cooperation with Elon Musk and his vision of the future, to mars!​​Contact Created by Team Codehard:​Jani Karhula (https://github.com/Hessupatteri)​Sara Petre (https://github.com/SaraPetre)​Erik Levander (https://github.com/ErikLevander)​Markus Sköld (https://github.com/MarkuSkold)​Selim Hussen (https://github.com/Selimdinho)​Abdimalik Omar (https://github.com/abdimalik2010)​
+### Authors and acknowledgment
+This project was inspired by our dear teacher Giacomo Turatto.​Also in cooperation with Elon Musk and his vision of the future, to mars!​​Contact Created by Team Codehard:​Jani Karhula (https://github.com/Hessupatteri)​Sara Petre (https://github.com/SaraPetre)​Erik Levander (https://github.com/ErikLevander)​Markus Sköld (https://github.com/MarkuSkold)​Selim Hussen (https://github.com/Selimdinho)​Abdimalik Omar (https://github.com/abdimalik2010)​
 
 
