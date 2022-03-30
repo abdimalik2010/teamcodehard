@@ -96,7 +96,7 @@ Use the built-in continuous integration in GitLab.
 Acknowledgements
 This project was inspired by our dear teacher Giacomo Turatto.
 ​
-Also in cooperation with Elon Musk and his vision of the future, to mars!
+ Also in cooperation with Elon Musk and his vision of the future, to mars!
 ​
 ​
 Contact
