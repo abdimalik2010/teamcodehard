@@ -42,7 +42,7 @@ You will need to have the following available to work with:
 - Docker and docker-compose
 - Code editor
 - Virtual environment installed requirements and dependencies
-​
+
 ```
 Docker-compose up 
 ```
