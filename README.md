@@ -15,14 +15,6 @@ The company that ordered the database model for its webshop wants to proceed wit
 <img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
 
-- Python 3.10
-- FastApi
-- Psycopg
-- pgAdmin 4
-- Docker
-- Trello (https://trello.com/b/UzA4xZMy/u05)
-- Postgres
-​
 ### Installation
 ​
 How run to the project?
