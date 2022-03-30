@@ -23,7 +23,7 @@ How run to the project?
 ​
 - Create a virtual environment
     - python -m venv [directory]
-Activate the venv 
+- Activate the venv 
     - Mac OS / Linux
 -  source [your-directory]/bin/activate
     - Windows
