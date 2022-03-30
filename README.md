@@ -67,16 +67,8 @@ https://trello.com/b/UzA4xZMy/u05
 https://gitlab.com/t13371/teamcodehard-api-doe21
 - Make plan for the sprints etc
 
-
-### Test and Deploy
-​
-Use the built-in continuous integration in GitLab.
-​
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
-​
 ### Authors and acknowledgment
-This project was inspired by our dear teacher Giacomo Turatto.​Also in cooperation with Elon Musk and his vision of the future, to mars!​​Contact Created by Team Codehard:​Jani Karhula (https://github.com/Hessupatteri)​Sara Petre (https://github.com/SaraPetre)​Erik Levander (https://github.com/ErikLevander)​Markus Sköld (https://github.com/MarkuSkold)​Selim Hussen (https://github.com/Selimdinho)​Abdimalik Omar (https://github.com/abdimalik2010)​
+- This project was inspired by our dear teacher Giacomo Turatto. Also in cooperation with Elon Musk and his vision of the future, to mars!​​
+- Contact Created by Team Codehard:​Jani Karhula (https://github.com/Hessupatteri)​Sara Petre (https://github.com/SaraPetre)​Erik Levander (https://github.com/ErikLevander)​Markus Sköld (https://github.com/MarkuSkold)​Selim Hussen (https://github.com/Selimdinho)​Abdimalik Omar (https://github.com/abdimalik2010)​
 
 
