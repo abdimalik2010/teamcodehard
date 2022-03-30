@@ -24,16 +24,16 @@ How run to the project?
 - Create a virtual environment
     - python -m venv [directory]
 - Activate the venv 
-    - Mac OS / Linux
--  source [your-directory]/bin/activate
-    - Windows
-- your-directory\Scripts\activate
+        - Mac OS / Linux
+    -  source [your-directory]/bin/activate
+        - Windows
+    - your-directory\Scripts\activate
 ​
-Install requirements
-- Run requirements install pip install -r requirements.txt
+- Install requirements
+    - pip install -r requirements.txt
 - Enter in venv
-- Run tests pytest
-- pytest test_api.py --cov --cov-report html
+    - Run tests pytest
+    - pytest test_api.py --cov --cov-report html
 ​
 ## Requirements
 ​
