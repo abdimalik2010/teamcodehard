@@ -11,6 +11,14 @@ The company that ordered the database model for its webshop wants to proceed wit
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
+<img align="left" alt="FastApi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fastapi/fastapi.png" />
+
+<img align="left" alt="Psycopg" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/psycopg/psycopg.png" />
+
+<img align="left" alt="Postgress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgress/postgress.png" />
+
+<img align="left" alt="pgAdmin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pgadmin/pgadmin.png" />
+
 
 - Python 3.10
 - FastApi
