@@ -93,14 +93,11 @@ Use the built-in continuous integration in GitLab.
 - [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
 - [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
 ​
-***
-​
-
 ## Authors and acknowledgment
 Acknowledgements
 This project was inspired by our dear teacher Giacomo Turatto.
 ​
- Also in cooperation with Elon Musk and his vision of the future, to mars!
+Also in cooperation with Elon Musk and his vision of the future, to mars!
 ​
 ​
 Contact
@@ -118,4 +115,5 @@ Selim Hussen (https://github.com/Selimdinho)
 ​
 Abdimalik Omar (https://github.com/abdimalik2010)
 ​
-
+## License
+For open source projects, say how it is licensed.
